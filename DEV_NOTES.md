@@ -8,3 +8,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Improved error handling in edge cases
 - Ran linter, applied auto-fixes
+
+## 2026-05-06
+- Added CONTRIBUTING.md stub
